@@ -97,11 +97,11 @@
         "total_supply": 15,
         "suffocate_time": -1,
         "inhale_time": 3.75,
-        "generates_bubbles": false
+        "generates_bubbles": true
       },
       "minecraft:nameable": {
         "always_show": true,
-        "allow_name_tag_renaming": false
+        "allow_name_tag_renaming": true
       },
       "minecraft:physics": {
       },
